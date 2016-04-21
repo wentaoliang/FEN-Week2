@@ -1,0 +1,53 @@
+/* This is CSS file */
+body {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+/*page structue CSS*/
+#box {
+    border-style: solid;
+    border-color: gray;
+    border-width: thin;
+    margin: 20px 450px 25px 450px;
+    padding: 10px 10px 20px 20px;
+    -webkit-box-shadow: -19px -14px 47px 7px rgba(0,0,0,0.56);
+    -moz-box-shadow: -19px -14px 47px 7px rgba(0,0,0,0.56);
+    box-shadow: -19px -14px 47px 7px rgba(0,0,0,0.56);
+  }
+
+#box2{
+    margin: 10px 5px 20px 5px;
+}
+
+#header {
+    font-size: 45px;
+    font-family: sans-serif;
+}
+
+#image {
+    width: 300px;
+    border-radius: 10%;
+    border-color: red;
+    border-style: outset;
+}
+
+/* Paragraph CSS below */
+#box3 {
+    border-style:solid;
+    border-color: gray;
+    border-width: thin;
+    margin: 10px 5px 20px 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+#kangaroo-description {
+    font-style: italic;
+}
+
+#paragraph {
+    font-style: italic;
+}
+.description-title {
+    font-weight: bold;
+}
